@@ -1,5 +1,5 @@
 {
-  "name": "tenantcloud/laravel-auto-generate-swagger",
+  "name": "kwxs/laravel-auto-generate-swagger",
   "description": "Provided middleware for generating of swagger-documentation file by run testing of RESTful API.",
   "keywords": [
     "laravel",
